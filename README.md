@@ -1,7 +1,7 @@
 ## base on [react-native-wheel-picker-android](https://www.npmjs.com/package/react-native-wheel-picker-android)
 
 
-# React native wheel picker V0.2
+# React native wheel picker V0.3
 
 <p>
 <img src="http://img.shields.io/npm/v/react-native-wheel-picker-android.svg" />

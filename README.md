@@ -174,5 +174,5 @@ onDateSelected = date => {}
 
 ## Questions or suggestions?
 
-Feel free to [open an issue]([https://github.com/ElekenAgency/ReactNativeWheelPicker/issues](https://github.com/cat4git/react-native-wheel-picker-android-community-base/issues))
+Feel free to [open an issue](https://github.com/cat4git/react-native-wheel-picker-android-community-base/issues)
 # react-native-wheel-picker-android-community-base

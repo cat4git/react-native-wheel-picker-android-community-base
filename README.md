@@ -1,13 +1,8 @@
 ## base on [react-native-wheel-picker-android](https://www.npmjs.com/package/react-native-wheel-picker-android)
 
 
-# React native wheel picker V0.3
+# React native wheel picker V0.3.1
 
-<p>
-<img src="http://img.shields.io/npm/v/react-native-wheel-picker-android.svg" />
-<img src="https://img.shields.io/npm/dm/react-native-wheel-picker-android.svg" />
-<img src="https://img.shields.io/npm/dt/react-native-wheel-picker-android.svg" />
-</p>
 
 A simple Wheel Picker for Android (For IOs is used PickerIOS)
 
@@ -20,15 +15,15 @@ A simple Wheel Picker for Android (For IOs is used PickerIOS)
 
 ## Automatic Installation
 
-`react-native link react-native-wheel-picker-android`
+`react-native link react-native-wheel-picker-android-community-base`
 
 ## Manual Android Installation
 
 In `android/settings.gradle`
 
 ```
-include ':react-native-wheel-picker-android'
-project(':react-native-wheel-picker-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wheel-picker-android/android')
+include ':react-native-wheel-picker-android-community-base'
+project(':react-native-wheel-picker-android-community-base').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wheel-picker-android-community-base/android')
 ```
 
 In `android/app/build.gradle`
@@ -36,7 +31,7 @@ In `android/app/build.gradle`
 ```
 dependencies {
     ...
-    compile project(':react-native-wheel-picker-android')
+    compile project(':react-native-wheel-picker-android-community-base')
 }
 ```
 
@@ -56,7 +51,7 @@ import {
   WheelPicker,
   TimePicker,
   DatePicker
-} from "react-native-wheel-picker-android";
+} from "react-native-wheel-picker-android-community-base";
 import React, { Component } from "react";
 import { AppRegistry, StyleSheet, Text, View, Button } from "react-native";
 

@@ -1,3 +1,6 @@
+## base on [react-native-wheel-picker-android](https://www.npmjs.com/package/react-native-wheel-picker-android)
+
+
 # React native wheel picker V0.1
 
 <p>
@@ -174,5 +177,5 @@ onDateSelected = date => {}
 
 ## Questions or suggestions?
 
-Feel free to [open an issue](https://github.com/ElekenAgency/ReactNativeWheelPicker/issues)
+Feel free to [open an issue](https://github.com/cat4git/react-native-wheel-picker-android-community-base/issues)
 # react-native-wheel-picker-android-community-base

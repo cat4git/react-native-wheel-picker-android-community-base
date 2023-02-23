@@ -1,14 +1,14 @@
-## base on [react-native-wheel-picker-android](https://www.npmjs.com/package/react-native-wheel-picker-android)
+### base on [react-native-wheel-picker-android](https://www.npmjs.com/package/react-native-wheel-picker-android)
 
 
-# React native wheel picker V0.3.1
+# React native wheel picker V0.3.6
 
 
 A simple Wheel Picker for Android (For IOs is used PickerIOS)
 
 ## Installation
 
-`yarn add react-native-wheel-picker-android`
+`yarn add react-native-wheel-picker-android-community-base`
 
 ![](./src/assets/pickerAndroid.gif)
 ![](./src/assets/pickerIos.gif)
